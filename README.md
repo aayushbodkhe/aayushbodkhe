@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aayushbodkhe
-- 👀 I’m interested in AI Tcehnologies and app development!!
+- 👀 I’m interested in AI Technologies and app development!!
 - 🌱 I’m currently learning python & C++;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- aayushbodkhe9616@gmail.com
